@@ -1,16 +1,20 @@
 ## Hi there 👋
+### My name is Justin Chen
+
+I was born in Lexington, Kentucky in 2008
+
+I have one older sister
+
+I attend the University of Chicago and will graduate in 2030!
+
+I plan to study economics with a specializtion in data science alongside computer science
+
+I grew up playing video games and have always had a long standing interest in them. I particularly like franchises like Pokémon and I play a lot of FPS. 
+
+I like anime and read manga and my favorite animals are pandas
 
 
-**MuchMrPanda/MuchMrPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+(![My favorite animal](image.png))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
